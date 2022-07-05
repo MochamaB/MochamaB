@@ -4,8 +4,10 @@
   Im' Brian
 </h2>
 
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300"/>
+  <img src="https://user-images.githubusercontent.com/91074775/177344514-ab409ac4-0b53-43e1-8f7d-ff99c3efffc4.JPG" width="500"/>
+
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
