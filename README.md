@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @MochamaB
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
+</div>
+👋 Hi, I’m @MochamaB
 - 👀 I’m interested in Wb Design, Mobile Application and E commerce development.
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on E commerce solutions
